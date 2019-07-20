@@ -1,0 +1,2 @@
+# Shopify-MemorialHelpers Store Template
+ 
